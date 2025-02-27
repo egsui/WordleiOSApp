@@ -27,12 +27,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Wordle Demo]](https://youtube.com/shorts/sI1HO7i0ULg?si=BcZkzleEgQDelMp1) .
+https://github.com/user-attachments/assets/a1fa5696-4568-42c9-9103-71add4565b66
 
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
